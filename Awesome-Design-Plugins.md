@@ -8,10 +8,12 @@
       <a href="https://flawlessapp.io/designplugins">
           <img src="https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/Awesome%20Design%20Plugins.png" alt="Awesome-Design-Plugins"/>
       </a>
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
     </p>
 </div>
+
+<p align="center">
+<img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
 
 ## How to Use and Contribute
 
@@ -1198,6 +1200,7 @@ If you found some great design tool or plugin, just send a Pull Request with res
 * [Reorient path](mr.flashi@gmail.com) — Reset the path rotation without affecting the shape. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Reverse Button Fill](https://github.com/masa-sumimoto/adobe-xd-reverse-button-fill) — A plugin that reverse fill of a text and a rectangle ( or a ellipse ). This plugin is intended to be used for button-like elements. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 * [Swap Position](https://github.com/boopeshmahendran/AdobeXD-Swap-Positions) — Swap the position of two selected nodes ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
+* [Toolabs DSM](https://www.toolabs.com/xdplugin) — a stateful design system manager which lets you link design tokens to design elements in your Adobe XD documents and make them themeable by defining system state variations, with no need to copy and paste your artboards. ![adobe-xd.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/adobe-xd.svg)
 
 </article>
 
